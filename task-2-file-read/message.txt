@@ -1,0 +1,2 @@
+Hello from Task 2!
+Docker successfully copied and read my file.
